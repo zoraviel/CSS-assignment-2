@@ -4,11 +4,11 @@ This repo contains your assignment starter files, including three images.
 
 1. **Fork** this repo (make sure you are logged into GitHub).
 
-2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. If you forgot how, [see the previous assignment](https://github.com/macloo/CSS-intro-with-GitHub-2016/blob/master/README.md).
+2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. If you forgot how, [see the previous assignment](https://github.com/macloo/CSS-intro-with-GitHub-2017/blob/master/README.md).
 
-**Note:** Make sure you clone the repo with *your name* at the top!
+**Note:** Make sure you **clone** the repo with *your name* at the top! NOT my repo. NOT the one with my name in the URL.
 
-3. Use your GitHub app to **create a branch** named *gh-pages*. Switch to that branch and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
+3. Use your GitHub app to **create a branch** named *gh-pages*. See the LAST 2 PAGES of this [illustrated guide](http://bit.ly/newGHapp). Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
 
 ## Part 1
 
