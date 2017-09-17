@@ -12,15 +12,17 @@ This repo contains your assignment starter files, including three images.
 
 ## Part 1
 
-Use the files *index.html* and *main.css* provided. DO NOT change *index.html* in any way.
+Use the files *index.html* and *main.css* provided. DO NOT change *index.html* in any way. All the HTML tags and all the classes you need are already there.
 
-You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). Note that a color palette has been provided in *main.css* -- **our focus here** is not on colors but on margins and padding, as well as effective use of CSS selectors.
+**REPEAT: DO NOT change *index.html* in any way.**
 
-1. Specify background colors for the three `section` elements, using the IDs that are in the HTML. Each `section` must have a different background color.
+You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). Note that a color palette has been provided for you in *main.css* -- **our focus here** is not on colors but on margins and padding, as well as effective use of CSS selectors.
+
+1. Specify background colors for the three `section` elements, using the IDs that are in the HTML. Each `section` must have a different background color. Robbins introduced *id and class attributes* in chapter 5. Using an ID in the stylesheet is demonstrated in the video [Intro to Web Apps Robbins Chapter 14 part 1](https://www.youtube.com/watch?v=9saJfaXfux8&index=26&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB).
 
 2. Specify a suitable width for the `article` element and give it a white background.
 
-3. Figure out how to center the `h2`, the `img`, the image source paragraph, and the `article`. There are two different methods for centering (text has one way, and images have a *different* way). **DO NOT center the text inside the `article`!** This covered in your book and in the videos. If you Google centering, you might find an incorrect method that is old and no longer used.
+3. Figure out how to center the `h2`, the `img`, the image source paragraph, and the `article`. There are two different methods for centering (text has one way, and images have a *different* way). **DO NOT center the text inside the `article`!** This covered in your book and in the videos. NOTE: If you Google centering, you might find an incorrect method that is old and no longer used, and that will cost you points.
 
 4. Specify padding for `article`.
 
@@ -31,6 +33,8 @@ You must write style rules in *main.css* to make the HTML page (*index.html*) lo
 7. Adjust margins and padding as needed to finish the page and make it look nice.
 
 **A note about the `header`:** I would like it to stay put when scrolling. However, if you can't figure that out, at least get the `h1` to go left and the `nav` to go right and inline, as seen in the video.
+
+**FINISH Part 1 before starting Part2!**
 
 ## Part 2
 
