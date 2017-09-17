@@ -42,15 +42,15 @@ Now you will make a different page layout using the same HTML file and new CSS. 
 
 * Copy the file *index.html* and name the new copy *twosides.html*.
 
-* Copy your final *main.css* and name the new copy *twosides.css*.
+* Copy your final *main.css* and name the new copy *twosides.css*. The following instructions assume that Part 1 is completed and *main.css* is completely finished to include all the steps in Part 1.
 
 * Edit the `link` element in *twosides.html* to attach the new style sheet file.
 
-You will make your second "Big Cats" page look similar to the second "Sea Mammals" page in [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31).
+You will make your second "Big Cats" page look similar to the second "Sea Mammals" page in [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31), with side-by-side content.
 
-1. The new layout will be much easier to create if you wrap the `h2`, `img` and image source paragraph together in one `div`. **This is the ONLY change you may make to the HTML.** Do exactly the same thing within each of the three `section` elements in *bigcats.html*. [This video](https://www.youtube.com/watch?v=qNdgzyIYKS0&index=10&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB) will help you use the `div` element correctly (but -- warning! -- DO NOT put the `div` styles in the `head`! All styles go into the .css file).
+1. The new layout will be much easier to create if you *wrap* the `h2`, `img` and image source paragraph together in *one* `div`. **This is the ONLY change you may make to the HTML. Make this change only in *twosides.html*.** Do exactly the same thing within each of the three `section` elements. [This video](https://www.youtube.com/watch?v=qNdgzyIYKS0&index=10&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB) will help you use the `div` element correctly (but -- warning! -- **DO NOT put the `div` styles in the `head`!** All styles go into the .css file).
 
-2. Use the CSS **float** property to achieve the side-by-side layout shown in the second half of [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). This will be tricky and frustrating. The best way to learn floats is to try, try, try. Lots of saving and reloading. Do not add a lot of CSS declarations -- more is NOT better. Keep it simple. Pay attention to Robbins's advice about the **clear** property. Robbins's section "Containing floats" will also be helpful. The three [videos](https://www.youtube.com/playlist?list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB) for chapter 15 will help a lot too.
+2. Use the CSS **float** property to achieve the side-by-side layout shown in the second half of [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). This will be tricky and frustrating. The best way to learn floats is to try, try, try. Lots of saving and reloading. Do not add a lot of CSS declarations -- more is NOT better. Keep it simple. Pay attention to Robbins's advice about the **clear** property. Robbins's section "Containing floats" will also be helpful. The three videos for chapter 15 will help a lot, especially [Intro to Web Apps Robbins Chapter 15 part 3](https://www.youtube.com/watch?v=cEgwqCWuJXs&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=30).
 
 3. You will find that *percentages* work better than *pixels* or anything else for all widths.
 
