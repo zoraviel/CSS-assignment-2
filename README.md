@@ -16,13 +16,13 @@ Use the files *index.html* and *main.css* provided. DO NOT change *index.html* i
 
 **REPEAT: DO NOT change *index.html* in any way.**
 
-You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). Note that a color palette has been provided for you in *main.css* -- **our focus here** is not on colors but on margins and padding, as well as effective use of CSS selectors.
+You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). Note that a color palette has been provided for you in *main.css* -- **our focus here** is not on finding new colors but on margins and padding, as well as effective use of CSS selectors.
 
 1. Specify background colors for the three `section` elements, using the IDs that are in the HTML. Each `section` must have a different background color. Robbins introduced *id and class attributes* in chapter 5. Using an ID in the stylesheet is demonstrated in the video [Intro to Web Apps Robbins Chapter 14 part 1](https://www.youtube.com/watch?v=9saJfaXfux8&index=26&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB).
 
 2. Specify a suitable width for the `article` element and give it a white background.
 
-3. Figure out how to center the `h2`, the `img`, the image source paragraph, and the `article`. There are two different methods for centering (text has one way, and images have a *different* way). **DO NOT center the text inside the `article`!** This covered in your book and in the videos. NOTE: If you Google centering, you might find an incorrect method that is old and no longer used, and that will cost you points.
+3. Figure out how to center the `h2`, the `img`, the image source paragraph, and the `article`. There are different methods for centering - do not use the text centering method for the article or the image. **DO NOT center the text inside the `article`!** This covered in your book and in the videos. NOTE: If you Google centering, you might find an incorrect method that is old and no longer used, and that will cost you points.
 
 4. Specify padding for `article`.
 
