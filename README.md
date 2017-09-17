@@ -52,7 +52,7 @@ You will make your second "Big Cats" page look similar to the second "Sea Mammal
 
 2. Use the CSS **float** property to achieve the side-by-side layout shown in the second half of [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). This will be tricky and frustrating. The best way to learn floats is to try, try, try. Lots of saving and reloading. Do not add a lot of CSS declarations -- more is NOT better. Keep it simple. Pay attention to Robbins's advice about the **clear** property. Robbins's section "Containing floats" will also be helpful. The three videos for chapter 15 will help a lot, especially [Intro to Web Apps Robbins Chapter 15 part 3](https://www.youtube.com/watch?v=cEgwqCWuJXs&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=30).
 
-3. You will find that *percentages* work better than *pixels* or anything else for all widths.
+3. You will find that *percentages* work better than *pixels* or anything else for all widths when you are floating elements.
 
 4. Remove the white background from `article`. Best to do this last, because having the background color will help you as you adjust the floats, widths and padding.
 
@@ -62,11 +62,11 @@ You will make your second "Big Cats" page look similar to the second "Sea Mammal
 
 ## Part 3
 
-When you have finished, you must **commit and sync** to GitHub. Don't forget to also post the URL of your GitHub repo in Canvas before the deadline!
+When you have finished, you must **commit and push** to GitHub. Don't forget to also post the URL of your GitHub repo in Canvas before the deadline!
 
 DO NOT make a pull request.
 
-There is a bonus to your new branch. By naming it *gh-pages* you are taking advantage of a GitHub feature that allows us to publish live Web pages. After you commit and sync, you can see your handiwork here:
+There is a bonus to your new branch. By naming it *gh-pages* you are taking advantage of a GitHub feature that allows us to publish live Web pages. After you commit and push, you can see your handiwork here:
 
 http://[ your username ].github.io/CSS-assignment-2/
 
@@ -74,7 +74,7 @@ And here:
 
 http://[ your username ].github.io/CSS-assignment-2/twosides.html
 
-If you need to fix anything after your first commit-and-sync, you will need to commit and sync AGAIN to get your changes up on GitHub. Don't forget to do all your work in your *gh-pages* branch!
+If you need to fix anything after your first commit-and-push, you will need to commit and push AGAIN to get your changes up on GitHub. Don't forget to do all your work in your *gh-pages* branch!
 
 ## Check the rubric and submit in Canvas
 
