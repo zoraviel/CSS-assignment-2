@@ -22,9 +22,9 @@ All of the above. Plus:
 
 * All instructions in Part 2 have been followed to alter those two new files.
 
-* The floats work.
+* Your CSS validates (both CSS files) [here](https://jigsaw.w3.org/css-validator/).
 
-**Note:** My maximum screen width is 1280 pixels, and the content must not touch the left and right edges of the window. Keep in mind that PERCENTAGES work better than pixels for width when floating.
+* Your HTML validates (both HTML files) [here](https://html5.validator.nu/).
 
 (All criteria must be met to get 10 points.)
 
@@ -32,19 +32,19 @@ All of the above. Plus:
 
 All of the above. Plus:
 
+* The floats work (*twosides.html* and *twosides.css*) — meaning the right-side content does not fall below the left-side content in any section.
+
+**Note:** My maximum screen width is 1280 pixels, and the content must not touch the left and right edges of the window. Keep in mind that PERCENTAGES work better than pixels for width when floating. However, the images have a width in pixels, so the left side must be wide enough for them.
+
 * Your HEADER on both pages achieves all criteria listed in Part 1 for the HEADER, and your HEADER looks and behaves like the one shown in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31).
 
 * All hexadecimal RGB codes are used correctly. No color words!
 
 * All punctuation marks required in the CSS file are used correctly.
 
-* Your CSS validates (both CSS files) [here](https://jigsaw.w3.org/css-validator/).
-
-* Your HTML validates (both HTML files) [here](https://html5.validator.nu/).
-
 * The CSS and HTML are formatted neatly, with sensible indents and use of linespaces that make code easy to read.
 
-* All text has good contrast against the background color, regardless of which element contains it. This includes link text.
+* All text has good contrast against the background color, regardless of which element contains it. This includes links.
 
 * You could show your two final pages to anyone, not just your instructor.
 
