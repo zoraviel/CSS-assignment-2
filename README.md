@@ -78,4 +78,4 @@ If you need to fix anything after your first commit-and-push, you will need to c
 
 ## Check the rubric and submit in Canvas
 
-Be sure to [check the rubric](rubric.md) and **SUBMIT THE URL of your GitHub repo** there to complete this assignment!
+Be sure to [check the rubric](rubric.md) and **SUBMIT THE URL of your GitHub repo in Canvas** to complete this assignment!
