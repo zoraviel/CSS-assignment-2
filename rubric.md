@@ -4,7 +4,7 @@
 
 ## 5 points:
 
-* Your correct and complete GitHub URL is submitted here by the deadline.
+* Your correct and complete GitHub URL is submitted in Canvas by the deadline.
 
 * Your repo contains the forked contents of the original repo PLUS a new branch named *gh-pages*.
 
@@ -24,7 +24,7 @@ All of the above. Plus:
 
 * The floats work.
 
-**Note:** Maximum screen width will be 1300 pixels, and the content must not touch the left and right edges of the window.
+**Note:** My maximum screen width is 1280 pixels, and the content must not touch the left and right edges of the window. Keep in mind that PERCENTAGES work better than pixels for width when floating.
 
 (All criteria must be met to get 10 points.)
 
@@ -38,13 +38,13 @@ All of the above. Plus:
 
 * All punctuation marks required in the CSS file are used correctly.
 
-* Your CSS validates (both CSS files).
+* Your CSS validates (both CSS files) [here](https://jigsaw.w3.org/css-validator/).
 
-* Your HTML validates (both HTML files).
+* Your HTML validates (both HTML files) [here](https://html5.validator.nu/).
 
 * The CSS and HTML are formatted neatly, with sensible indents and use of linespaces that make code easy to read.
 
-* All text has good contrast against the background color, regardless of which element contains it.
+* All text has good contrast against the background color, regardless of which element contains it. This includes link text.
 
 * You could show your two final pages to anyone, not just your instructor.
 
