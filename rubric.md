@@ -34,6 +34,10 @@ All of the above. Plus:
 
 * The floats work (*twosides.html* and *twosides.css*) — meaning the right-side content does not fall below the left-side content in any section.
 
+* The section background colors are as they should be.
+
+* Padding and alignment in the *twosides* version looks close to the version shown in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). Notice that text that was *centered* in the other version of the page is NOT centered in the *twosides* version. Notice also that the article text does NOT wrap under the image. 
+
 **Note:** My maximum screen width is 1280 pixels, and the content must not touch the left and right edges of the window. Keep in mind that PERCENTAGES work better than pixels for width when floating. However, the images have a width in pixels, so the left side must be wide enough for them.
 
 * Your HEADER on both pages achieves all criteria listed in Part 1 for the HEADER, and your HEADER looks and behaves like the one shown in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31).
