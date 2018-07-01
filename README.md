@@ -50,9 +50,9 @@ The palette for "The Big Cats" is different from the palette for "Sea Mammals."
 
 8. Make the `header` element act as a flex container. Follow the example in video 25 [Use CSS flex to style a header and nav with buttons](https://www.youtube.com/watch?v=3iUscQU0yKg) to style the navigation links and the header overall using flex properties. **DO NOT change any of the HTML in *index.html*!**
 
-Adjust or add `margin` and `padding` values as needed to make the spacing on your "Big Cats" page look as close as possible to the "Sea Mammals" example. Don't forget that sometimes we need `margin: 0;` to get rid of browser defaults. Margins are covered in video 19 [Intro to the CSS box model: Margins](https://www.youtube.com/watch?v=KivtDY-cbMQ) and padding is covered in video 20 [Padding and the CSS box model](https://www.youtube.com/watch?v=z33gP_PE-7Q).
+9. Adjust or add `margin` and `padding` values as needed to make the spacing on your "Big Cats" page look as close as possible to the "Sea Mammals" example. Don't forget that sometimes we need `margin: 0;` to get rid of browser defaults. Margins are covered in video 19 [Intro to the CSS box model: Margins](https://www.youtube.com/watch?v=KivtDY-cbMQ) and padding is covered in video 20 [Padding and the CSS box model](https://www.youtube.com/watch?v=z33gP_PE-7Q).
 
-Assign suitable text colors and link pseudo class colors for good contrast and legibility *as needed* in the articles and sections. This was demonstrated in video 18 [CSS, Links and Pseudo Classes](https://www.youtube.com/watch?v=otVUAinxGKk).
+10. Assign suitable text colors and link pseudo class colors for good contrast and legibility *as needed* in the articles and sections. This was demonstrated in video 18 [CSS, Links and Pseudo Classes](https://www.youtube.com/watch?v=otVUAinxGKk). You can check contrast here: [Color Contrast Checker](https://webaim.org/resources/contrastchecker/). Note that you MAY deviate from your palette because you need to use a brighter, lighter, or darker shade or hue to achieve good contrast. The [Google Color Picker](https://www.google.com/search?q=color+picker) can make this fast and easy. Just put in the current link or hover color and click inside the box to get a new color in the same range.
 
 Note that both `header` and `footer` have a dark gray background color in the "Sea Mammals" example.
 
@@ -82,6 +82,8 @@ You will make your second "Big Cats" page look similar to the second "Sea Mammal
 
 5. Adjust `margin` and `padding` values as needed to make the spacing on your second "Big Cats" page look as close as possible to the second "Sea Mammals" example. In particular, without the white background on the text section, you will not need the same `padding`.
 
+6. Assign suitable text colors and link pseudo class colors for good contrast and legibility *as needed* in the articles and sections. See step 10 under part 1, above.
+
 **DO NOT USE any CSS layout properties we have not covered,** such as `float`, `position` or `display: grid`.
 
 ## Part 3
@@ -102,7 +104,7 @@ And here:
 
 http://[ your username ].github.io/CSS-assignment-2/version2.html
 
-### Subsequent edits to yur files
+### Subsequent edits to your files
 
 If you need to fix anything after your first commit-and-push, you will need to commit and push AGAIN to get your changes up on GitHub. Don't forget to do all your work in your *gh-pages* branch!
 
