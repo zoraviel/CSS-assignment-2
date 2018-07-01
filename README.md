@@ -2,69 +2,97 @@
 
 This repo contains your assignment starter files, including three images.
 
+**DO NOT USE any CSS layout properties we have not covered,** such as `float`, `position` or `display: grid`.
+
+The [rubric](rubric.md) is in this repo.
+
+## Do these steps first
+
 1. **Fork** this repo (make sure you are logged into GitHub).
 
-2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. If you forgot how, [see the previous assignment](https://github.com/macloo/CSS-intro-with-GitHub-2017/blob/master/README.md).
+2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. If you forgot how to fork or clone, [see the previous assignment](https://github.com/macloo/CSS-and-GitHub-intro/blob/master/README.md). **Note:** Make sure you **clone** the repo from the URL with *your name* at the top! NOT my repo. NOT the one with my name in the URL.
 
-**Note:** Make sure you **clone** the repo with *your name* at the top! NOT my repo. NOT the one with my name in the URL.
-
-3. Use your GitHub app to **create a branch** named *gh-pages*. See the LAST 2 PAGES of this [illustrated guide](http://bit.ly/newGHapp). Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
+3. Use your GitHub Desktop app to **create a branch** named *gh-pages*. See the LAST 2 PAGES of this [illustrated guide](http://bit.ly/newGHapp). Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
 
 ## Part 1
 
-Use the files *index.html* and *main.css* provided. DO NOT change *index.html* in any way. All the HTML tags and all the classes you need are already there.
+Use the files *index.html* and *main.css* provided.
+
+DO NOT change *index.html* in any way. All the HTML elements, IDs and classes you need are already there.
 
 **REPEAT: DO NOT change *index.html* in any way.**
 
-You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). Note that a color palette has been provided for you in *main.css* -- **our focus here** is not on finding new colors but on margins and padding, as well as effective use of CSS selectors.
+You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](TK).
 
-1. Specify background colors for the three `section` elements, using the IDs that are in the HTML. Each `section` must have a different background color. Robbins introduced *id and class attributes* in chapter 5. Using an ID in the stylesheet is demonstrated in the video [Intro to Web Apps Robbins Chapter 14 part 1](https://www.youtube.com/watch?v=9saJfaXfux8&index=26&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB).
+**Note that a color palette has been provided for you in *main.css*.**
 
-2. Specify a suitable width for the `article` element and give it a white background.
+The palette for "The Big Cats" is different from the palette for "Sea Mammals."
 
-3. Figure out how to center the `h2`, the `img`, the image source paragraph, and the `article`. There are different methods for centering - do not use the text centering method for the article or the image. **DO NOT center the text inside the `article`!** This covered in your book and in the videos. NOTE: If you Google centering, you might find an incorrect method that is old and no longer used, and that will cost you points.
+**Your focus here** is not on finding new colors but on margins, padding, and flex properties, as well as effective use of CSS selectors.
 
-4. Specify padding for `article`.
+**TIP:** Don't fail to use `box-sizing: border-box` correctly!
 
-5. Center the text in the `footer` and specify padding for `footer`.
+### Steps for part 1
 
-6. In the `header`, use the **width** property, the **float** property, and techniques for making a navigation bar (Robbins chapter 15) to set up the header as shown in the video. **DO NOT change any of the HTML in *index.html*!**
+1. Specify background colors for the three `article` elements, using the IDs that are in the HTML. Each `article` must have a different background color. Robbins introduced *id and class attributes* in chapter 5, pp. 100–102. Using an ID in the stylesheet is demonstrated in video 17 [CSS Used with Classes and IDs](https://www.youtube.com/watch?v=3Z_vzE1RILs).
 
-7. Adjust margins and padding as needed to finish the page and make it look nice.
+2. All `section` elements on this page should have the same `max-width` property. This prevents the lines of paragraph text from being too long (too wide) for comfortable readability. Unlike `width`, `max-width` allows the width to shrink (no flex styles are needed).
 
-**A note about the `header`:** I would like it to stay put when scrolling. However, if you can't figure that out, at least get the `h1` to go left and the `nav` to go right and inline, as seen in the video.
+3. Assign a white background color to all sections with the `text` class.
 
-**FINISH Part 1 before starting Part2!**
+4. Make suitable adjustments to `padding`, `font-size` and `line-height` for all sections with the `text` class. Refer to the "Sea Mammals" example in the video for guidance. **DO NOT center or justify the P text in the `text` class!**
+
+5. Center the `h2` text in all sections that have the `text` class. Do not use any flex properties to do this.
+
+6. Make the `article` elements act as flex containers. Each `article` will be a flex container. Use CSS flex properties to center all the child elements that are inside the container. **DO NOT center the P text in the `text` class!** This is demonstrated in video 24 [Intro to CSS flexbox](https://www.youtube.com/watch?v=mTtG3HWjmg4). This is a vertical flex arrangement.
+
+7. Style the `footer` and `footer p` as needed to match the "Sea Mammals" example in the video. You can do this without flex.
+
+8. Make the `header` element act as a flex container. Follow the example in video 25 [Use CSS flex to style a header and nav with buttons](https://www.youtube.com/watch?v=3iUscQU0yKg) to style the navigation links and the header overall using flex properties. **DO NOT change any of the HTML in *index.html*!**
+
+Adjust or add `margin` and `padding` values as needed to make the spacing on your "Big Cats" page look as close as possible to the "Sea Mammals" example. Don't forget that sometimes we need `margin: 0;` to get rid of browser defaults. Margins are covered in video 19 [Intro to the CSS box model: Margins](https://www.youtube.com/watch?v=KivtDY-cbMQ) and padding is covered in video 20 [Padding and the CSS box model](https://www.youtube.com/watch?v=z33gP_PE-7Q).
+
+Assign suitable text colors and link pseudo class colors for good contrast and legibility *as needed* in the articles and sections. This was demonstrated in video 18 [CSS, Links and Pseudo Classes](https://www.youtube.com/watch?v=otVUAinxGKk).
+
+Note that both `header` and `footer` have a dark gray background color in the "Sea Mammals" example.
+
+**FINISH Part 1 before starting Part 2!** The header will be identical on your second HTML page and in your second CSS file, so get it all working and looking right before you continue. There should be no differences in the header and nav in your two CSS files.
 
 ## Part 2
 
 Now you will make a different page layout using the same HTML file and new CSS. **Make sure you've finished Part 1 first.**
 
-* Copy the file *index.html* and name the new copy *twosides.html*.
+* Copy the file *index.html* and name the new copy *version2.html*.
 
-* Copy your final *main.css* and name the new copy *twosides.css*. The following instructions assume that Part 1 is completed and *main.css* is completely finished to include all the steps in Part 1.
+* Copy your final *main.css* and name the new copy *version2.css*. The following instructions assume that Part 1 is completed and *main.css* is completely finished to include all the steps in Part 1.
 
-* Edit the `link` element in *twosides.html* to attach the new style sheet file.
+* Edit the `link` element in *version2.html* to attach the new stylesheet file.
 
-You will make your second "Big Cats" page look similar to the second "Sea Mammals" page in [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31), with side-by-side content.
+You will make your second "Big Cats" page look similar to the second "Sea Mammals" page in [this video](TK), with side-by-side content in each article.
 
-1. The new layout will be much easier to create if you *wrap* the `h2`, `img` and image source paragraph together in *one* `div`. **This is the ONLY change you may make to the HTML. Make this change only in *twosides.html*.** Do exactly the same thing within each of the three `section` elements. [This video](https://www.youtube.com/watch?v=qNdgzyIYKS0&index=10&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB) will help you use the `div` element correctly (but -- warning! -- **DO NOT put the `div` styles in the `head`!** All styles go into the .css file).
+### Steps for part 2
 
-2. Use the CSS **float** property to achieve the side-by-side layout shown in the second half of [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31). This will be tricky and frustrating. The best way to learn floats is to try, try, try. Lots of saving and reloading. Do not add a lot of CSS declarations -- more is NOT better. Keep it simple. The three videos for chapter 15 will help a lot, especially [Intro to Web Apps Robbins Chapter 15 part 3](https://www.youtube.com/watch?v=cEgwqCWuJXs&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=30).
+1. Edit the `article` rule in your CSS so that the flex container now places the two `section` elements side by side. This is a horizontal flex arrangement. You will have to change, remove, and add various flex properties to make this work. You will not need more than two or three different flex properties in this rule.
 
-3. **TIPS:** a) You will find that *percentages* work better than *pixels* (or anything else) for all widths when you are floating elements. b) If your colors for the sections disappear, read Robbins, "Containing floats," pages 351-352 for the solution. c) Pay attention to Robbins's advice about the **clear** property (pages 347-348).
+2. Edit the `section` rule or rules in your CSS so that the two sides are of equal width. This might require adding a flex property you had not used before.
 
-4. Remove the white background from `article`. Best to do this last, because having the background color will help you as you adjust the floats, widths and padding.
+3. Remove the white background color from all sections with the `text` class.
 
-5. Adjust padding and margins as needed to finish the page and make it look nice.
+4. Un-center the `h2` text in all sections that have the `text` class. make sure your `h2` headings look similar to those in the video for the second "Sea Mammals" example.
 
-**DO NOT use the *position* property** on any part of the `section` or `article` here. Floats will work.
+5. Adjust `margin` and `padding` values as needed to make the spacing on your second "Big Cats" page look as close as possible to the second "Sea Mammals" example. In particular, without the white background on the text section, you will not need the same `padding`.
+
+**DO NOT USE any CSS layout properties we have not covered,** such as `float`, `position` or `display: grid`.
 
 ## Part 3
 
-When you have finished, you must **commit and push** to GitHub. Don't forget to also post the URL of your GitHub repo in Canvas before the deadline!
+When you have finished, you must **commit and push** to GitHub. **If you have trouble doing this,** a likely reason is that you did not **clone** correctly at the beginning. If you cloned from *my* GitHub.com repo and not *your own,* you'll need to clone all over again. Before doing so, copy your two CSS files into a safe other folder beforehand so you don't lose them.
+
+**Don't forget to also post the URL of your GitHub repo in Canvas before the deadline!**
 
 DO NOT make a pull request.
+
+### Why gh-pages are cool
 
 There is a bonus to your new branch. By naming it *gh-pages* you are taking advantage of a GitHub feature that allows us to publish live Web pages. After you commit and push, you can see your handiwork here:
 
@@ -72,10 +100,12 @@ http://[ your username ].github.io/CSS-assignment-2/
 
 And here:
 
-http://[ your username ].github.io/CSS-assignment-2/twosides.html
+http://[ your username ].github.io/CSS-assignment-2/version2.html
+
+### Subsequent edits to yur files
 
 If you need to fix anything after your first commit-and-push, you will need to commit and push AGAIN to get your changes up on GitHub. Don't forget to do all your work in your *gh-pages* branch!
 
-## Check the rubric and submit in Canvas
+## Check the RUBRIC and submit in Canvas
 
 Be sure to [check the rubric](rubric.md) and **SUBMIT THE URL of your GitHub repo in Canvas** to complete this assignment!
