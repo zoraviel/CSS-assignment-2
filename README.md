@@ -14,6 +14,10 @@ The [rubric](rubric.md) is in this repo.
 
 3. Use your GitHub Desktop app to **create a branch** named *gh-pages*. See the LAST 2 PAGES of this [illustrated guide](http://bit.ly/newGHapp). Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
 
+## About measurements
+
+When you are specifying `margin` or `padding` in CSS, the `rem` unit is usually preferred. `font-size` and `line-height` may also use `rem`. Widths based on the width of the browser window or device are often given as percent (e.g. `100%`) or in pixels (`px`). See video 23 [CSS units of measurement: px, em, rem and percent](https://www.youtube.com/watch?v=ZgkRh3IrLFg).
+
 ## Part 1
 
 Use the files *index.html* and *main.css* provided.
