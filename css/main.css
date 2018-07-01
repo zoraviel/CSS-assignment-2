@@ -7,6 +7,9 @@ body {
     color: #fff;
     background: #000;
 }
+img {
+    max-width: 100%; /* DO NOT delete or change this line */
+}
 
 /* ----- SUGGESTED COLORS -----
     - ARTICLES
@@ -28,6 +31,8 @@ body {
 
 
 /* --- link pseudo classes --- */
+/* --- you may ADD other link pseudo classes for
+        specific articles or sections to improve CONTRAST --- */
 
 a {
     color: #379CB2;
