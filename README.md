@@ -30,7 +30,7 @@ DO NOT change *index.html* in any way. All the HTML elements, IDs and classes yo
 
 **REPEAT: DO NOT change *index.html* in any way.**
 
-You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](TK).
+You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=T3TglQ3BsSc).
 
 **Note that a color palette has been provided for you in *main.css*.**
 
@@ -76,7 +76,7 @@ Now you will make a different page layout using the same HTML file and new CSS. 
 
 * Edit the `link` element in *version2.html* to attach the new stylesheet file.
 
-You will make your second "Big Cats" page look similar to the second "Sea Mammals" page in [this video](TK), with side-by-side content in each article.
+You will make your second "Big Cats" page look similar to the second "Sea Mammals" example in [this video](https://www.youtube.com/watch?v=T3TglQ3BsSc), with side-by-side content in each article.
 
 ### Steps for part 2
 
