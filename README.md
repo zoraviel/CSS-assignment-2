@@ -30,7 +30,7 @@ DO NOT change *index.html* in any way. All the HTML elements, IDs and classes yo
 
 **REPEAT: DO NOT change *index.html* in any way.**
 
-You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=T3TglQ3BsSc).
+You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=T3TglQ3BsSc) (at 5:45).
 
 **Note that a color palette has been provided for you in *main.css*.**
 
