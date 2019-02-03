@@ -8,11 +8,11 @@ The [rubric](rubric.md) is in this repo.
 
 ## Do these steps first
 
-1. **Fork** this repo (make sure you are logged into GitHub).
+1. **Fork** this repo (make sure you are logged into GitHub). ([Learn how.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/forking_and_cloning))
 
-2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. If you forgot how to fork or clone, [see the previous assignment](https://github.com/macloo/CSS-and-GitHub-intro/blob/master/README.md). **Note:** Make sure you **clone** the repo from the URL with *your name* at the top! NOT my repo. NOT the one with my name in the URL.
+2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. See the previous link &mdash; FORK FIRST, then clone. **Note:** Make sure you **clone** the repo from the URL with *your name* at the top! NOT my repo. NOT the one with my name in the URL. When you clone, clone YOUR repo.
 
-3. Use your GitHub Desktop app to **create a branch** named *gh-pages*. See the LAST 2 PAGES of this [illustrated guide](http://bit.ly/newGHapp). Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
+3. Use your GitHub Desktop app to **create a branch** named *gh-pages*. [Learn how.(https://github.com/macloo/github-howto-and-github-desktop/tree/master/git_branches)] Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*. **Note:** The linked resource says name your branch *my-branch* &mdash; no, no, NO! Name it *gh-pages*. Exactly that name. And be sure to create that new branch BEFORE you make any changes in the files.
 
 ## About measurements
 
