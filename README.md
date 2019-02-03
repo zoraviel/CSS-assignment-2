@@ -14,6 +14,8 @@ The [rubric](rubric.md) is in this repo.
 
 3. Use your GitHub Desktop app to **create a branch** named *gh-pages*. [Learn how.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/git_branches) Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*. **Note:** The linked resource says name your branch *my-branch* &mdash; no, no, NO! Name it *gh-pages*. Exactly that name. And be sure to create that new branch BEFORE you make any changes in the files.
 
+You will NOT merge anything for this assignment.
+
 ## About measurements
 
 When you are specifying `margin` or `padding` in CSS, the `rem` unit is usually preferred. `font-size` and `line-height` may also use `rem`. Widths based on the width of the browser window or device are often given as percent (e.g. `max-width: 100%;`). See video 23 [CSS units of measurement: px, em, rem and percent](https://www.youtube.com/watch?v=ZgkRh3IrLFg).
@@ -100,7 +102,7 @@ When you have finished, you must **commit and push** to GitHub. **If you have tr
 
 **Don't forget to also post the URL of your GitHub repo in Canvas before the deadline!**
 
-DO NOT make a pull request.
+DO NOT merge anything. DO NOT make a pull request.
 
 ### Why gh-pages are cool
 
@@ -112,10 +114,16 @@ And here:
 
 http://[ your username ].github.io/CSS-assignment-2/version2.html
 
+[Learn more about a gh-pages branch.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/gh-pages)
+
 ### Subsequent edits to your files
 
-If you need to fix anything after your first commit-and-push, you will need to commit and push AGAIN to get your changes up on GitHub. Don't forget to do all your work in your *gh-pages* branch!
+If you need to fix anything after your first commit-and-push, you will need to commit and push AGAIN to get your changes up on GitHub. Don’t forget to do all your work in your *gh-pages* branch!
+
+[How to commit and push.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/git_commit_and_sync)
 
 ## Check the RUBRIC and submit in Canvas
 
 Be sure to [check the rubric](rubric.md) and **SUBMIT THE URL of your GitHub repo in Canvas** to complete this assignment!
+
+The repo URL (at github.com), NOT the github.io URL.
