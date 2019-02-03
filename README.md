@@ -8,7 +8,7 @@ The [rubric](rubric.md) is in this repo.
 
 ## Do these steps first
 
-1. **Fork** this repo (make sure you are logged into GitHub). ([Learn how.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/forking_and_cloning)) **Note:** You will clone *this* repo, the one you're on right now, named *CSS-assignment-2* 
+1. **Fork** this repo (make sure you are logged into GitHub). ([Learn how.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/forking_and_cloning)) **Note:** Make sure you fork *this* repo, the one you're on right now, named *CSS-assignment-2* (not the repo with the forking instructions).
 
 2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. See the previous link &mdash; FORK FIRST, then clone. **Note:** Make sure you **clone** the repo from the URL with *your name* at the top! NOT my repo. NOT the one with my name in the URL. When you clone, clone YOUR repo.
 
