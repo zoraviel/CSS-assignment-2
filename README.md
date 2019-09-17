@@ -46,7 +46,7 @@ The palette for "The Big Cats" is different from the palette for "Sea Mammals."
 
 1. Specify background colors for the three `article` elements, using the IDs that are in the HTML. Each `article` must have a different background color. Robbins introduced *id and class attributes* in chapter 5, pp. 100–102. Using an ID in the stylesheet is demonstrated in video 17 [CSS Used with Classes and IDs](https://www.youtube.com/watch?v=3Z_vzE1RILs).
 
-2. All `section` elements on this page should have the same `max-width` property. This prevents the lines of paragraph text from being too long (too wide) for comfortable readability. Unlike `width`, `max-width` allows the width to shrink (no flex styles are needed).
+2. All `section` elements on this page should have the same `max-width` property. This prevents the lines of paragraph text from being too long (too wide) for comfortable readability. Unlike `width`, `max-width` allows the width to shrink (no flex styles are needed). [More details about `max-width` here.](https://introwebapps.wordpress.com/2019/09/17/using-max-width-on-an-img-or-any-other-element/)
 
 3. Assign a white background color to all sections with the `text` class.
 
