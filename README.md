@@ -28,21 +28,21 @@ Because an image has an actual width in pixels (`px`), you may use that width as
 
 ## Part 1
 
-Use the files *index.html* and *main.css* provided.
+Use the files *index.html* and *main.css* provided here.
 
 DO NOT change *index.html* in any way. All the HTML elements, IDs and classes you need are already there.
 
 **REPEAT: DO NOT change *index.html* in any way.**
 
-You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [this video](https://www.youtube.com/watch?v=T3TglQ3BsSc).
+You must write style rules in *main.css* to make the HTML page (*index.html*) look similar to the first "Sea Mammals" page in [video 28](https://www.youtube.com/watch?v=T3TglQ3BsSc).
 
 **Note that a color palette has been provided for you in *main.css*.**
 
-The palette for "The Big Cats" is different from the palette for "Sea Mammals."
+The palette for "The Big Cats" is DIFFERENT from the palette for "Sea Mammals."
 
 **Your focus here** is not on finding new colors but on margins, padding, and flex properties, as well as effective use of CSS selectors.
 
-**TIP:** Don't fail to use `box-sizing: border-box` correctly!
+**TIP:** Don't fail to use `box-sizing: border-box` correctly! It is covered in [video 22](https://www.youtube.com/watch?v=00utX18iiQk).
 
 ### Steps for part 1
 
