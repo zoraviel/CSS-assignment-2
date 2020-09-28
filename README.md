@@ -12,7 +12,7 @@ The [rubric](rubric.md) is in this repo.
 
 2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. See the previous link &mdash; FORK FIRST, then clone. **Note:** Make sure you **clone** the repo from the URL with *your name* at the top! NOT my repo. NOT the one with my name in the URL. When you clone, clone YOUR repo. *Look in the address bar:* `github.com/yourname/CSS-assignment-2`
 
-3. Use your GitHub Desktop app to **create a branch** named *gh-pages*. [Learn how.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/git_branches) Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*. **Note:** The linked resource says name your branch *my-branch* &mdash; no, no, NO! Name it *gh-pages*. Exactly that name. And be sure to create that new branch BEFORE you make any changes in the files.
+3. Use your GitHub Desktop app to **create a branch** named *gh-pages*. [Learn how.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/git_branches) Stay in that branch, and do all your work in that branch. Note that the hyphen and all lowercase letters are **essential** in the branch name *gh-pages*. **Note:** The linked resource says name your branch *my-branch* &mdash; no, no, NO! Name it *gh-pages*. Exactly that name. And be sure to create that new branch BEFORE you make any changes in the files.
 
 You will NOT merge anything for this assignment.
 
@@ -82,7 +82,7 @@ Now you will make a different page layout using the same HTML file and new CSS. 
 
 * Edit the `link` element in *version2.html* to attach the new stylesheet file.
 
-KEEP *index.html* and *main.css* unchanged! They will be graded.
+KEEP *index.html* and *main.css* unchanged from Part 1! They will be graded.
 
 You will make your second "Big Cats" page look similar to the second "Sea Mammals" example in [this video](https://www.youtube.com/watch?v=T3TglQ3BsSc) (starting at 5:45), with side-by-side content in each article.
 
@@ -121,6 +121,8 @@ And here:
 http://[ your username ].github.io/CSS-assignment-2/version2.html
 
 **TIP:** You should open BOTH of those URLs after you commit and sync to make sure your two pages look correct. This is how your assignment will be graded &mdash; so it's smart to make sure those two pages exist.
+
+Here is a *gh-pages* page, for example, that shows a working tip calculator: https://macloo.github.io/js-tipper/
 
 [Learn more about a gh-pages branch.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/gh-pages)
 
