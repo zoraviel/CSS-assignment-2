@@ -16,13 +16,15 @@ The [rubric](rubric.md) is in this repo.
 
 You will NOT merge anything for this assignment.
 
+NEVER change the name of the top-level repo folder. The upper- and lowercase and the hyphens must all remain unchanged. This repo is named: **CSS-assignment-2**
+
 ## About measurements
 
 When you are specifying `margin` or `padding` in CSS, the `rem` unit is usually preferred. `font-size` and `line-height` may also use `rem`. Widths based on the width of the browser window or device are often given as percent (e.g. `max-width: 100%;`). See video 23 [CSS units of measurement: px, em, rem and percent](https://www.youtube.com/watch?v=ZgkRh3IrLFg).
 
 When a measurement value is zero, no unit is needed (e.g. `margin: 0;`).
 
-Because an image has an actual width in pixels (`px`), you may use that width as a base so that elements above or below the image have the same width as the image.
+Because an image has an actual width in pixels (`px`), you may use that width as a base so that elements above or below the image have the same width as the image. **That means:** Look up the *width* of the image using the Finder, the Windows Explorer, or the browser itself. The first number is always the width: 800x600 means the image is 800 pixels wide and 600 pixels high.
 
 ## Part 1
 
