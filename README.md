@@ -52,11 +52,11 @@ The palette for "The Big Cats" is DIFFERENT from the palette for "Sea Mammals."
 
 3. Assign a white background color to all sections with the `text` class.
 
-4. Make suitable adjustments to `padding`, `font-size` and `line-height` for all sections with the `text` class. Refer to the "Sea Mammals" example in the video for guidance. **DO NOT center or justify the P text in the `text` class!**
+4. Make suitable adjustments to `padding`, `font-size` and `line-height` for all sections with the `text` class. Refer to the "Sea Mammals" example in the video for guidance. **DO NOT center or justify the P text in the `text` class!** P text alignment is "left" by default. DO NOT CHANGE IT.
 
-5. Center the `h2` text in all sections that have the `text` class. Do not use any flex properties to do this.
+5. Center the `h2` text in all sections that have the `text` class. Do not use any flex properties to do this. This was covered in **lecture** and is in the slides.
 
-6. Make the `article` elements act as flex containers. Each `article` will be a flex container. Use CSS flex properties to center all the child elements that are inside the container. **DO NOT center the P text in the `text` class!** This is demonstrated in video 24 [Intro to CSS flexbox](https://www.youtube.com/watch?v=mTtG3HWjmg4). This is a vertical flex arrangement.
+6. Make the `article` elements act as flex containers. Each `article` will be a flex container. Use CSS flex properties to center all the child elements that are inside the container. **DO NOT center the P text in the `text` class!** This is demonstrated in video 24 [Intro to CSS flexbox](https://www.youtube.com/watch?v=mTtG3HWjmg4). This is a **vertical** flex arrangement. Remember that your *index.html* will look like the first example in video 28.
 
 7. Style the `footer` and `footer p` as needed to match the "Sea Mammals" example in the video. You can do this without flex.
 
@@ -64,11 +64,11 @@ The palette for "The Big Cats" is DIFFERENT from the palette for "Sea Mammals."
 
 9. Adjust or add `margin` and `padding` values as needed to make the spacing on your "Big Cats" page look as close as possible to the "Sea Mammals" example. Don't forget that sometimes we need `margin: 0;` to get rid of browser defaults. Margins are covered in video 19 [Intro to the CSS box model: Margins](https://www.youtube.com/watch?v=KivtDY-cbMQ) and padding is covered in video 20 [Padding and the CSS box model](https://www.youtube.com/watch?v=z33gP_PE-7Q).
 
-10. Assign suitable text colors and link pseudo class colors for good contrast and legibility *as needed* in the articles and sections. This was demonstrated in video 18 [CSS, Links and Pseudo Classes](https://www.youtube.com/watch?v=otVUAinxGKk). You can check contrast here: [Color Contrast Checker](https://webaim.org/resources/contrastchecker/). Note that you MAY deviate from your palette because you need to use a brighter, lighter, or darker shade or hue to achieve good contrast. The [Google Color Picker](https://www.google.com/search?q=color+picker) can make this fast and easy. Just put in the current link or hover color and click inside the box to get a new color in the same range.
+10. Assign suitable text colors and link pseudo class colors for good contrast and legibility *as needed* in the articles and sections. This was demonstrated in video 18 [CSS, Links and Pseudo Classes](https://www.youtube.com/watch?v=otVUAinxGKk). You can check contrast here: [Contrast Checker](https://webaim.org/resources/contrastchecker/). Note that you MAY deviate from your palette because you need to use a brighter, lighter, or darker shade or hue to achieve good contrast. The [Google Color Picker](https://www.google.com/search?q=color+picker) can make this fast and easy. Just put in the current link or hover color and click inside the box to get a new color in the same range.
 
 Note that both `header` and `footer` have a dark gray background color in the "Sea Mammals" example.
 
-**FINISH Part 1 before starting Part 2!** The header will be identical on your second HTML page and in your second CSS file, so get it all working and looking right before you continue. There should be no differences in the header and nav in your two CSS files.
+**FINISH Part 1 before starting Part 2!** The header will be identical on your second HTML page and in your second CSS file, so get it all working and looking right before you continue. There should be **no differences** in the header and nav in your two CSS files.
 
 ## Part 2
 
@@ -79,6 +79,8 @@ Now you will make a different page layout using the same HTML file and new CSS. 
 * Copy your final *main.css* and name the new copy *version2.css*. The following instructions assume that Part 1 is completed and *main.css* is completely finished to include all the steps in Part 1.
 
 * Edit the `link` element in *version2.html* to attach the new stylesheet file.
+
+KEEP *index.html* and *main.css* unchanged! They will be graded.
 
 You will make your second "Big Cats" page look similar to the second "Sea Mammals" example in [this video](https://www.youtube.com/watch?v=T3TglQ3BsSc) (starting at 5:45), with side-by-side content in each article.
 
