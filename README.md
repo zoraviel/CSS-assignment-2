@@ -66,6 +66,8 @@ The palette for "The Big Cats" is DIFFERENT from the palette for "Sea Mammals."
 
 10. Assign suitable text colors and link pseudo class colors for good contrast and legibility *as needed* in the articles and sections. This was demonstrated in video 18 [CSS, Links and Pseudo Classes](https://www.youtube.com/watch?v=otVUAinxGKk). You can check contrast here: [Contrast Checker](https://webaim.org/resources/contrastchecker/). Note that you MAY deviate from your palette because you need to use a brighter, lighter, or darker shade or hue to achieve good contrast. The [Google Color Picker](https://www.google.com/search?q=color+picker) can make this fast and easy. Just put in the current link or hover color and click inside the box to get a new color in the same range.
 
+You DO NOT need to use all five pseudo classes. Look at the *main.css* file provided. Those pseudo classes are enough.
+
 Note that both `header` and `footer` have a dark gray background color in the "Sea Mammals" example.
 
 **FINISH Part 1 before starting Part 2!** The header will be identical on your second HTML page and in your second CSS file, so get it all working and looking right before you continue. There should be **no differences** in the header and nav in your two CSS files.
@@ -86,9 +88,9 @@ You will make your second "Big Cats" page look similar to the second "Sea Mammal
 
 ### Steps for part 2
 
-1. Edit the `article` rule in your CSS so that the flex container now places the two `section` elements side by side. This is a horizontal flex arrangement. You will have to change, remove, and add various flex properties to make this work. You will not need more than two or three different flex properties in this rule.
+1. Edit the `article` rule in your CSS so that the flex container now places the two `section` elements side by side. This is a **horizontal** flex arrangement. You will have to change, remove, and add various flex properties to make this work. You will not need more than two or three different flex properties in this rule.
 
-2. Edit the `section` rule or rules in your CSS so that the two sides are of equal width. This might require adding a flex property you had not used before.
+2. Edit the `section` rule or rules in your CSS so that the two sides are of equal width. This might require adding a flex property you had not used before. This is for you to figure out. Consult the Robbins book.
 
 3. Remove the white background color from all sections with the `text` class.
 
@@ -102,7 +104,7 @@ You will make your second "Big Cats" page look similar to the second "Sea Mammal
 
 ## Part 3
 
-When you have finished, you must **commit and push** to GitHub. **If you have trouble doing this,** a likely reason is that you did not **clone** correctly at the beginning. If you cloned from *my* GitHub.com repo and not *your own,* you'll need to clone all over again. Before doing so, copy your two CSS files into a safe other folder beforehand so you don't lose them.
+When you have finished, you must **commit and push** to GitHub. **If you have trouble doing this,** a likely reason is that you did not **clone** correctly at the beginning. If you cloned from *my* GitHub.com repo and not *your own,* you'll need to clone all over again. Before doing so, copy your two CSS files into a safe other folder (OUTSIDE your repo) beforehand so you don't lose them.
 
 **Don't forget to also post the URL of your GitHub repo in Canvas before the deadline!**
 
@@ -117,6 +119,8 @@ http://[ your username ].github.io/CSS-assignment-2/
 And here:
 
 http://[ your username ].github.io/CSS-assignment-2/version2.html
+
+**TIP:** You should open BOTH of those URLs after you commit and sync to make sure your two pages look correct. This is how your assignment will be graded &mdash; so it's smart to make sure those two pages exist.
 
 [Learn more about a gh-pages branch.](https://github.com/macloo/github-howto-and-github-desktop/tree/master/gh-pages)
 
