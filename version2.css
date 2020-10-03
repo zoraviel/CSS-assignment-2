@@ -2,7 +2,7 @@
 
 
 h2{
-  text-align: center;
+  text-align: left;
 }
 
 header {
@@ -40,20 +40,23 @@ h1{
   color: #fff
 }
 
-article{
+article {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+  flex-direction: row;
 
+}
 #cougar {
   background: #492D09;
+  justify-content: space-around;
 }
 #lion {
   background: #3D1F00;
+  justify-content: space-around;
+
 }
 #tiger {
   background: #422100;
+  justify-content: space-around;
 }
 /* you may add to or change the body rule */
 body {
@@ -67,23 +70,24 @@ img {
     max-width: 100%; /* DO NOT delete or change this line */
 display: block;
 margin: 0 auto;
-margin-top: 10rem;
+margin-top: 5rem;
 }
 
 
 .text {
-  background: #fff;
-  padding: 5rem;
-  font-size: 2rem;
+  margin: 0;
+  padding: 2rem;
+  font-size: 1.5rem;
   line-height: 3rem;
-  box-sizing: content-box;
-  max-width: 445px;
+  max-width: 600px;
   margin-bottom: 10rem;
+  color: #fff;
+box-sizing: content-box;
 }
 
 .photo {
-  box-sizing: content-box;
   max-width: 600px;
+  padding: 1rem;
   color:#fff;
 }
 /* ----- SUGGESTED COLORS -----
